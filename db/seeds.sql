@@ -1,11 +1,11 @@
 USE burgers_db;
 
-INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NOT NULL,'Hamburger', FALSE, NOT NULL);
-INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NOT NULL,'Bacon Jam Burger', FALSE, NOT NULL);
-INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NOT NULL,'Poppy Burger', FALSE, NOT NULL);
-INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NOT NULL,'Diablo Burger',FALSE, NOT NULL);
-INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NOT NULL,'Smoked Burger',FALSE, NOT NULL);
-INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NOT NULL,'Flower Burger',FALSE, NOT NULL);
+INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NULL,'Hamburger', FALSE, NULL);
+INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NULL,'Bacon Jam Burger', FALSE, NULL);
+INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NULL,'Poppy Burger', FALSE, NULL);
+INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NULL,'Diablo Burger',FALSE, NULL);
+INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NULL,'Smoked Burger',FALSE, NULL);
+INSERT INTO burgers (id, burger_name, devoured, date) VALUES (NULL,'Flower Burger',FALSE, NULL);
 
 
 
